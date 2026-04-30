@@ -13,7 +13,6 @@ struct core_obj {
 
 #endif
 
-#define LUNA_OBJ_IMPLEMENTATION
 #ifdef LUNA_OBJ_IMPLEMENTATION
 
 void luna_obj_init(struct core_obj *obj)
